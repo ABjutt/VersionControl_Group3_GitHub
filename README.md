@@ -2,7 +2,7 @@
 GitHub is a popular web-based platform for version control and collaborative development, built on top of Git, a distributed version control system. It allows multiple developers to work on the same project simultaneously while tracking every change made to the code. GitHub also provides cloud-based repository hosting, enabling teams to store, share, and manage their projects efficiently from anywhere.
 For this assignment, GitHub is selected as one of the main collaboration tools to help students practice real-world teamwork, version control, and project management.
 
-2. Key Features of GitHub
+3. Key Features of GitHub
 GitHub offers several essential features that support smooth collaboration and project organization:
 
 Repositories (Repos):
